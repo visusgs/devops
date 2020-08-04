@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/visusgs/masterclass-codeexamples/"
+    "url": "https://github.com/getintodevops/masterclass-codeexamples/"
   },
   "keywords": [
     "node",
     "docker",
     "dockerfile"
   ],
-  "author": "visusgs@gmail.com",
+  "author": "miiro@getintodevops.com",
   "license": "ISC",
   "devDependencies": { "test": ">=0.6.0" }
 }
